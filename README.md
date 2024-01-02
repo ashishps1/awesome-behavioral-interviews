@@ -44,7 +44,7 @@ Here are a few more common behavioral interview questions along with STAR-based 
    - **Action:** "I quickly organized a meeting with the design and development teams to discuss the changes and their feasibility within the timeline..."
    - **Result:** "We successfully implemented the design changes without delaying the project, and the app received positive reviews from users."
 
-## Interview Preparation Grid
+## Behavioral Interview Preparation Grid
 This format is inspired by the book "Cracking the Coding Interview" by Gayle Laakman McDowell.
 
 I found it really helpful during my preparation. 
@@ -57,7 +57,19 @@ You can clone the Notion page and fill this sheet based on your experience.
 
 
 ## Questions
-**Disclaimer:** Sample responses to these questions are just meant for inspiration. For the actual interview, you should write your own examples based on your past experiences.  
+**Disclaimer:** Please note that the provided sample responses to these questions are intended to serve as inspiration. During the actual interview, you should provide your own examples based on your past experiences.
+<details>
+<summary><b>Tell me about yourself.</b></summary>
+I am a software developer with over five years of experience in the tech industry, specializing in full-stack development. My journey in software development began with a bachelor's degree in Computer Science, which laid a solid foundation in programming and problem-solving skills.
+
+Throughout my career, I have worked with various technologies and programming languages, including JavaScript, Python, and Java. I have a strong background in developing web applications, and I am particularly passionate about creating user-friendly, efficient, and scalable solutions. My most recent role was with XYZ Tech, where I was part of a team that developed a cloud-based logistics management system. This project not only honed my technical skills but also improved my abilities in teamwork and communication.
+
+I am always eager to learn and grow. Apart from my project work, I regularly engage in professional development activities. This includes taking online courses to stay updated with the latest technological trends, participating in coding challenges, and contributing to open-source projects.
+
+In my free time, I enjoy attending tech meetups and seminars, which helps me stay connected with the tech community and continuously learn from my peers. I also have a keen interest in AI and machine learning, and I am currently working on a personal project that utilizes machine learning algorithms to analyze and predict user behavior.
+
+I am excited about the opportunity to bring my diverse skill set, passion for technology, and collaborative spirit to your team. I look forward to contributing to innovative projects and being a part of the dynamic and forward-thinking environment that your company is known for.
+</details>
 <details>
 <summary><b>Tell me about a time you had a disagreement with your manager.</b></summary>
 <ul>
@@ -259,23 +271,6 @@ You can clone the Notion page and fill this sheet based on your experience.
     </li>
     <li>
         <b>Result: </b>These proactive measures paid off when the application launched. The launch campaign was highly successful, leading to a rapid influx of users. Thanks to the scalability improvements, the application handled the surge in traffic flawlessly, with no significant performance issues. This success not only boosted the client’s confidence in our company but also led to recognition from our senior management for the foresight and technical proficiency demonstrated by our team. This experience reinforced the importance of anticipating potential challenges and proactively implementing solutions in software development.
-    </li>
-</ul>
-</details>
-<details>
-<summary><b>Describe a time when you anticipated potential problems and developed preventive measures.</b></summary>
-<ul>
-    <li>
-        <b>Situation: </b>While working as a software developer in my previous role, our team was developing a new feature for our company’s main product. This feature was complex and integrated various parts of the system.
-    </li>
-    <li>
-        <b>Task: </b>Based on my past experiences and understanding of the system’s intricacies, I anticipated that integrating this new feature could potentially lead to performance issues and conflicts with existing modules.
-    </li>
-    <li>
-        <b>Action: </b>To mitigate these risks, I initiated a discussion with the team about potential problem areas. We then conducted thorough code reviews and ran a series of integration tests prior to the actual integration phase. I also advocated for implementing a feature toggle, allowing us to turn off the new feature instantly in case it disrupted the live system. Additionally, I created detailed documentation on the integration process and potential fallback procedures, which was shared with the team. This proactive approach ensured everyone was prepared to handle any unforeseen issues.
-    </li>
-    <li>
-        <b>Result: </b>When we deployed the new feature, we encountered a few minor issues, but thanks to the preventive measures we had in place, we were able to address them quickly without major impact on system performance or user experience. The feature toggle, in particular, proved beneficial as it allowed us to seamlessly turn off a problematic component, fix it, and reintegrate it without affecting the live system. This experience not only helped in the successful implementation of the feature but also reinforced the importance of anticipation and proactive planning in software development. It was a valuable lesson in risk management and the benefits of a collaborative and prepared approach to complex tasks.
     </li>
 </ul>
 </details>
@@ -555,10 +550,9 @@ You can clone the Notion page and fill this sheet based on your experience.
     </li>
     <li>
     <b>Experimentation and Personal Projects:</b> I believe in learning by doing. So, I often experiment with new technologies by incorporating them into my personal projects. This hands-on approach helps deepen my understanding and assess the practical application of new tools and frameworks.
-    <li>
-    </ol>
-    By combining these methods, I manage to stay well-informed and adapt to the constantly evolving tech landscape. This not only enhances my current work but also prepares me for future challenges and opportunities in software development.
     </li>
+    By combining these methods, I manage to stay well-informed and adapt to the constantly evolving tech landscape. This not only enhances my current work but also prepares me for future challenges and opportunities in software development.
+    </ol>
 </ul>
 </details>
 <details>
@@ -919,7 +913,7 @@ You can clone the Notion page and fill this sheet based on your experience.
 - What is the onboarding process like for this role?
 - What do you like most about working here?
 - Can you describe the [company name]'s overall management style and the type of person who usually does well here?
-- What excites you the most about the XXX's future?
+- What excites you the most about the [company name]'s future?
 - I’m very interested in scalability, and I’d love to learn more about it. What opportunities are there at this company to learn more about this?
 
 ## Other Resources
