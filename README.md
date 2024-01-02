@@ -49,7 +49,7 @@ This format is inspired by the book "Cracking the Coding Interview" by Gayle Laa
 
 I found it really helpful during my preparation. 
 
-Create a sheet and list down common questions for each project. 
+Create a sheet and list down common questions and their answers for each project. 
 
 You can clone the Notion page and fill this sheet based on your experience.
 ![Interview Preparation Grid](interview-preparation-grid.png)
@@ -858,6 +858,49 @@ You can clone the Notion page and fill this sheet based on your experience.
     <li><b>Task: </b>Recently, I decided to enhance my understanding of cloud computing, specifically AWS (Amazon Web Services), because our team was transitioning more of our projects to the cloud to leverage its scalability and efficiency.</li>
     <li><b>Action: </b>To achieve this, I enrolled in an AWS Certified Solutions Architect course. This comprehensive course covered various aspects of AWS, including EC2, S3, VPC, and Lambda. I dedicated my evenings and weekends to studying and hands-on practice. Not only did I learn about the different services AWS offers, but I also learned how to architect and deploy secure and robust applications on AWS technologies. I focused on practical applications of these services in our current and future projects.</li>
     <li><b>Result: </b>As a result of this learning initiative, I passed the certification exam with a high score. More importantly, I was able to immediately apply this knowledge in our team’s projects. For example, I led an initiative to optimize our application deployment using AWS Lambda, which resulted in a 30% reduction in our operational costs and improved scalability. My team and management appreciated this contribution, and it has now become a standard practice in our project deployments. This experience reinforced the importance of continuous learning and staying updated with industry advancements.</li>
+</ul>
+</details>
+<details>
+<summary><b>Tell me about a time when you had to make a decision without all the information you needed.</b></summary>
+<ul>
+    <li><b>Situation: </b>In my last role as a software developer at an e-commerce company, we were in the middle of a critical project to overhaul our online payment system. The deadline was tight due to upcoming regulatory changes. Midway through the project, we encountered a major challenge with one of our payment gateway integrations. The gateway provider was delayed in providing us with the necessary API documentation due to their internal issues.
+    </li>
+    <li><b>Task: </b>My task was to ensure the integration was completed on time, despite the lack of complete information from the gateway provider. We needed to move forward but had to do so cautiously to avoid any security or compliance issues.
+    </li>
+    <li><b>Action: </b> I first evaluated the partial information we had received to determine what could be reliably inferred about the missing parts. I then consulted with a senior colleague who had previous experience with similar integrations to gather insights based on their past projects.
+    Based on this, I developed a hypothesis about how the missing parts of the API might function. To test this safely, I created a sandbox environment and developed a mock version of the API based on our best guesses. I also reached out to another payment gateway provider we had good relations with, to gain insights into industry-standard practices.
+    Throughout this process, I kept our project manager and the rest of the team informed about the steps I was taking and the risks involved. We agreed to proceed cautiously, with the understanding that we might need to revise our approach once the full information was available.
+    </li>
+    <li><b>Result: </b>The mock integration worked well in our tests, and when we finally received the complete API documentation from the original provider, we found that our hypothesis was largely correct. We made some minor adjustments based on the full information and successfully completed the integration on time. This experience taught me the value of resourcefulness and careful risk assessment when making decisions with incomplete information. It also highlighted the importance of collaboration and leveraging available resources to navigate challenging situations.
+    </li>
+</ul>
+</details>
+<details>
+<summary><b>Tell me a time when you linked two or more problems together and identified an underlying issue.</b></summary>
+<ul>
+    <li>
+    <b>Situation: </b>In my previous role as a software developer at a healthcare technology company, we were experiencing recurring issues with our patient data management system. Two main problems kept surfacing: first, there were intermittent errors in patient data synchronization across different modules, and second, users reported occasional system slowdowns, particularly during data retrieval processes.
+    </li>
+    <li>
+    <b>Task: </b>My task was to investigate and resolve these issues. While they initially appeared to be separate problems, I had a hunch that they might be interconnected and symptomatic of a deeper, underlying issue within the system.
+    </li>
+    <li><b>Action: </b></li>To investigate, I started by reviewing the system logs and analyzing the error patterns. I noticed that the synchronization errors and system slowdowns occurred around the same times. This led me to hypothesize that the problems might be related to the way data was being handled and stored.
+    Diving deeper, I performed a thorough review of the database operations, particularly focusing on the processes that ran during data synchronization and retrieval. I discovered that an inefficient database query was causing a lock-up in the system, which not only slowed down data retrieval but also intermittently disrupted the synchronization process.
+    <li><b>Result: </b>After deploying the fix, we observed a significant improvement in system performance. The synchronization errors ceased, and the system's overall speed and reliability increased. By linking the two problems together and identifying the root cause, I was able to devise a solution that not only resolved the immediate issues but also improved the system’s long-term efficiency. This experience reinforced the importance of looking beyond symptoms to find the root cause of problems and the value of a holistic approach to problem-solving in software development.
+    </li>
+</ul>
+</details>
+<details>
+<summary><b>Tell me about a time you made a decision to sacrifice short term gain for a longer term goal.</b></summary>
+<ul>
+    <li><b>Situation: </b>While working as a software developer at a financial services company, our team was developing a new online banking application. The initial launch deadline was aggressive, and there was significant pressure to release the application quickly due to competitive market reasons.
+    </li>
+    <li><b>Task: </b>My task was to lead the development of a critical security component of the application. As the deadline approached, it became apparent that while we could launch on time, the security module wouldn't have all the robust features I had planned. Launching on time meant sacrificing some advanced security features for a quicker release.
+    </li>
+    <li><b>Action: </b>I analyzed the situation and decided that compromising on the security aspect could pose long-term risks, including potential vulnerabilities and a loss of customer trust. I presented my case to the management, highlighting the importance of robust security measures in financial applications. I used data and examples to demonstrate how a more comprehensive security approach would benefit us in the long run, even if it meant delaying the launch.I proposed a revised timeline that allowed us to fully implement the advanced security features. To mitigate the impact of the delay, I also presented a plan for incremental releases, starting with basic functionalities followed by advanced features in subsequent updates. This approach aimed to balance market entry with product integrity.
+    </li>
+    <li><b>Result: </b>After thorough discussion, management agreed with my proposal. We launched the application with basic functionalities first and rolled out the advanced security features in the following months. Although this decision initially delayed our full market entry, it paid off. The application was well-received for its security and reliability, which enhanced our company's reputation. We also observed a significant increase in user adoption rates post-launch. This experience taught me the value of prioritizing long-term benefits over short-term gains, especially in areas as critical as security in financial applications. It also highlighted the importance of strategic planning and effective communication with stakeholders.
+    </li>
 </ul>
 </details>
 
