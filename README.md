@@ -897,6 +897,19 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
     </li>
 </ul>
 </details>
+<details>
+<summary><b>How would you respond if you were the last member of the team in the office on a Friday afternoon and the product owner asks you to develop and deploy a change to production?</b></summary>
+<ul>
+    <li><b>Situation: </b>
+    </li>
+    <li><b>Task: </b>
+    </li>
+    <li><b>Action: </b>
+    </li>
+    <li><b>Result: </b>
+    </li>
+</ul>
+</details>
 
 ## Questions you can ask the interviewer
 - What brought you to this company? What has been most challenging for you?
