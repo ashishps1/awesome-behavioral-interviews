@@ -452,7 +452,7 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
             <b>Accessibility Standards:</b> Ensured that the app met international accessibility standards, such as the Web Content Accessibility Guidelines (WCAG).
             </li>
             <li>
-            <b>Regular Feedback Loops:<b> Established regular feedback loops during the development cycle to incorporate user input into the design continually.
+            <b>Regular Feedback Loops:</b> Established regular feedback loops during the development cycle to incorporate user input into the design continually.
             </li>
         </ol>
     </li>
