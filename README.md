@@ -9,14 +9,17 @@ This repository contains tips and resources to prepare for behavioral interviews
 ## General Tips to succeed in Behavioral Interviews
 1. **Understand the STAR Method:** Familiarize yourself with the STAR method (Situation, Task, Action, Result) for structuring your responses. This helps you provide clear and concise answers and keeps your answers focused.
 1. **Listen attentively:** Pay close attention to the interviewer's questions and follow-up prompts. Make sure your responses directly address what's being asked.
-1. **Be concise:** Keep your responses focused and concise. Avoid rambling or providing excessive details that are not directly relevant.
+1. **Be concise:** Keep your answers short and to the point. Don't go off-topic.
 1. **Ask Clarifying Questions:** If you're unsure about a question, ask for clarification to ensure you understand what the interviewer is looking for It's ok to tell the interviewer you want time to collect your thoughts.
-1. **Avoid Negative Language:** Refrain from speaking negatively about past employers, colleagues, or experiences. Stay professional and constructive. You don't want to be disrespectful, offensive, arrogant, mean, confrontational.
+1. **Avoid Negative Language:** Refrain from speaking negatively about past employers, colleagues, or experiences.
+1. **Stay professional and constructive:** You don't want to be disrespectful, offensive, arrogant, mean, confrontational.
 1. **Highlight your strengths:** Frame your responses in a positive light. Even when discussing challenges or failures, focus on what you learned and how you improved.
 1. **Ask thoughtful questions:** Interviewing is a two-way street. Ask questions to learn more about the company, culture, etc..
 1. **It's ok to not have answer to every question:** If you are asked a question which you can't recall from past experience you can tell the interviewer *"I think I don't actually have this experience but I would love to tell you how I would react in this situation"*
 1. **Highlight you are a Team Player:** Strike a balance between highlighting your qualities and your ability to work in a team and help others. Talk about stories that reflect qualities and team work (both you qualities and team work).
-1. **Practice, Practice, Practice:** Preparing ahead of time will help you recollect thoughts easily and help you frame answers better. Best way to prepare is to go through a bunch of interview questions and think about how you would answer them.
+1. **Be Honest:** If you don't know the answer to a question, it's better to admit it than to make something up.
+1. **Prepare ahead of time:** Preparing before the interview will help you remember things more easily and frame answers better.
+1. **Practice common questions:** Best way to prepare is to go through common interview questions and think about how you would answer them.
 
 ## STAR Framework
 The STAR framework is a structured method for answering behavioral interview questions effectively. 
