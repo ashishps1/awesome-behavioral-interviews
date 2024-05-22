@@ -16,7 +16,7 @@ Tips and resources to prepare for Behavioral interviews.
 1. **Highlight your strengths:** Frame your responses in a positive light. Even when discussing challenges or failures, focus on what you learned and how you improved.
 1. **Ask thoughtful questions:** Interviewing is a two-way street. Ask questions to learn more about the company, culture, etc..
 1. **It's ok to not have answer to every question:** If you are asked a question which you can't recall from past experience you can tell the interviewer *"I think I don't actually have this experience but I would love to tell you how I would react in this situation"*
-1. **Highlight you are a Team Player:** Strike a balance between highlighting your qualities and your ability to work in a team and help others. Talk about stories that reflect qualities and team work (both you qualities and team work).
+1. **Highlight you are a Team Player:** Strike a balance between highlighting your qualities and your ability to work in a team and help others. Talk about stories that reflect qualities and team work (both your qualities and team work).
 1. **Be Honest:** If you don't know the answer to a question, it's better to admit it than to make something up.
 1. **Prepare ahead of time:** Preparing before the interview will help you remember things more easily and frame answers better.
 1. **Practice common questions:** Best way to prepare is to go through common interview questions and think about how you would answer them.
