@@ -6,7 +6,7 @@
 </p>
 Tips and resources to prepare for Behavioral interviews.
 
-## General Tips to succeed in Behavioral Interviews
+## ✅ General Tips to succeed in Behavioral Interviews
 1. **Understand the STAR Method:** Familiarize yourself with the STAR method (Situation, Task, Action, Result) for structuring your responses. This helps you provide clear and concise answers and keeps your answers focused.
 1. **Listen attentively:** Pay close attention to the interviewer's questions and follow-up prompts. Make sure your responses directly address what's being asked.
 1. **Be concise:** Keep your answers short and to the point. Don't go off-topic.
@@ -21,7 +21,7 @@ Tips and resources to prepare for Behavioral interviews.
 1. **Prepare ahead of time:** Preparing before the interview will help you remember things more easily and frame answers better.
 1. **Practice common questions:** Best way to prepare is to go through common interview questions and think about how you would answer them.
 
-## STAR Framework
+## 🌟 STAR Framework
 The STAR framework is a structured method for answering behavioral interview questions effectively. 
 
 STAR stands for Situation, Task, Action, and Result.
@@ -52,7 +52,7 @@ Here are a few more common behavioral interview questions along with STAR-based 
    - **Action:** "I quickly organized a meeting with the design and development teams to discuss the changes and their feasibility within the timeline..."
    - **Result:** "We successfully implemented the design changes without delaying the project, and the app received positive reviews from users."
 
-## Behavioral Interview Preparation Grid
+## ⚙️ Behavioral Interview Preparation Grid
 This format is inspired by the book "Cracking the Coding Interview" by Gayle Laakman McDowell.
 
 I found it really helpful during my preparation. 
@@ -64,7 +64,7 @@ You can clone the Notion page and fill this sheet based on your experience.
 [Notion Page](https://ashishps.notion.site/ashishps/Behavioral-Interview-Preparation-Grid-95f97d42f3494d86a3a683752c4b54b5)
 
 
-## Questions
+## 🚀 Questions
 **Disclaimer:** Please note that the provided sample responses to these questions are intended to serve as inspiration. During the actual interview, you should provide your own examples based on your past experiences.
 <details>
 <summary><b>Tell me about yourself.</b></summary>
@@ -919,7 +919,7 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 </ul>
 </details>
 
-## Questions you can ask the interviewer
+## ？Questions you can ask the interviewer
 - What brought you to this company? What has been most challenging for you?
 - Can you share some insight about the day-to-day responsibilities of this position? What’s a typical day like?
 - Can you tell me about the opportunities for career advancement at [company name]?
@@ -937,5 +937,6 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 - What excites you the most about the [company name]'s future?
 - I’m very interested in scalability, and I’d love to learn more about it. What opportunities are there at this company to learn more about this?
 
-## Other Resources
-[Amazon Leadership principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles)
+## 📇 Other Resources
+- [Grokking the Behavioral Interview](https://www.educative.io/courses/grokking-the-behavioral-interview?aff=BZyO)
+- [Amazon Leadership principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles)
