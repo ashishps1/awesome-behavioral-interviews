@@ -2,9 +2,10 @@
   <img src="images/behvaioral-repo-logo.png" width="350" height="200">
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashishps1/">LinkedIn</a> | <a href="https://www.youtube.com/@ashishps_1/videos">YouTube</a> | <a href="https://twitter.com/ashishps_1">X</a> | <a href="https://algomaster.substack.com/">Newsletter</a>
+  <a href="https://blog.algomaster.io/">Join Free Newsletter</a>
 </p>
-Tips and resources to prepare for Behavioral interviews.
+
+This repository contains tips and resources to prepare for Behavioral interviews.
 
 ## ✅ General Tips to succeed in Behavioral Interviews
 1. **Understand the STAR Method:** Familiarize yourself with the STAR method (Situation, Task, Action, Result) for structuring your responses. This helps you provide clear and concise answers and keeps your answers focused.
