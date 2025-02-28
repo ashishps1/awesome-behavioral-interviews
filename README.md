@@ -940,3 +940,9 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 
 ## 📇 Other Resources
 - [Amazon Leadership principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles)
+
+---
+
+<p align="center">
+  <i>If you find this resource helpful, please give it a star ⭐️ and share it with others!</i>
+</p>
