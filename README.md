@@ -682,7 +682,7 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 </ul>
 </details>
 <details>
-<summary><b>Describe a time when you you needed to motivate a group of individuals or encourage collaboration during a particular project.
+<summary><b>Describe a time when you needed to motivate a group of individuals or encourage collaboration during a particular project.
 </b></summary>
 <ul>
     <li>
