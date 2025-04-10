@@ -756,7 +756,7 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 </ul>
 </details>
 <details>
-<summary><b>Explain the situation where excess of work and you knew you could not meet the deadline. How did you manage then?</b></summary>
+<summary><b>Tell me about a time when you had an excessive amount of work and you knew you could not meet the deadline. How did you manage then?</b></summary>
 <ul>
     <li>
         <b>Situation: </b>While working as a software developer at a tech startup, we were in the final stages of launching a new feature. A week before the deadline, we received feedback from beta testing that indicated significant issues with user experience. This required additional work that was not accounted for in our initial planning.
