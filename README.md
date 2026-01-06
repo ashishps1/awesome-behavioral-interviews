@@ -11,7 +11,7 @@ This repository contains tips and resources to prepare for Behavioral interviews
 1. **Understand the STAR Method:** Familiarize yourself with the STAR method (Situation, Task, Action, Result) for structuring your responses. This helps you provide clear and concise answers and keeps your answers focused.
 1. **Listen attentively:** Pay close attention to the interviewer's questions and follow-up prompts. Make sure your responses directly address what's being asked.
 1. **Be concise:** Keep your answers short and to the point. Don't go off-topic.
-1. **Ask Clarifying Questions:** If you're unsure about a question, ask for clarification to ensure you understand what the interviewer is looking for It's ok to tell the interviewer you want time to collect your thoughts.
+1. **Ask Clarifying Questions:** If you're unsure about a question, ask for clarification to ensure you understand what the interviewer is looking for. It's ok to tell the interviewer you want time to collect your thoughts.
 1. **Avoid Negative Language:** Refrain from speaking negatively about past employers, colleagues, or experiences.
 1. **Stay professional and constructive:** You don't want to be disrespectful, offensive, arrogant, mean, confrontational.
 1. **Highlight your strengths:** Frame your responses in a positive light. Even when discussing challenges or failures, focus on what you learned and how you improved.
