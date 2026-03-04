@@ -941,6 +941,9 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 ## 📇 Courses
 - [Master Behavioral Interviews](https://algomaster.io/learn/behavioral/what-are-behavioral-interviews)
 
+## 🎯 Mock Interview Practice                                                                                                                                                           
+- [MockIF](https://mockif.com) - AI mock interviews with real-time feedback on STAR structure and delivery 
+
 ## Other Resources
 - [Amazon Leadership principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles)
 
