@@ -22,6 +22,7 @@ This repository contains tips and resources to prepare for Behavioral interviews
 1. **Prepare ahead of time:** Preparing before the interview will help you remember things more easily and frame answers better.
 1. **Practice common questions:** Best way to prepare is to go through common interview questions and think about how you would answer them.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts showcasing behavioral patterns in multi-agent coordination, task delegation, and team orchestration. MIT licensed.
 ## 🌟 STAR Framework
 The STAR framework is a structured method for answering behavioral interview questions effectively. 
 
