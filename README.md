@@ -943,6 +943,7 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 
 ## Other Resources
 - [Amazon Leadership principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles)
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=ashishps1_awesome-behavioral-interviews) - Follow experienced devs on GitHub and see what repos they find worth starring. Great for learning.
 
 ---
 
