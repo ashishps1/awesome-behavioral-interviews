@@ -943,6 +943,7 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 
 ## Other Resources
 - [Amazon Leadership principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles)
+- [LeakCode](https://leakcode.dev): aggregated database of real behavioral interview questions and responses from 2,000+ companies, sourced from 1point3acres and other community reports, filterable by company, role, and seniority
 
 ---
 
