@@ -942,6 +942,7 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 - [Master Behavioral Interviews](https://algomaster.io/learn/behavioral/what-are-behavioral-interviews)
 
 ## Other Resources
+- [AimVantage](https://aimvantage.uk) - AI tool that generates mock behavioral interview questions with evaluation criteria, tailored to a specific job posting.
 - [Amazon Leadership principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles)
 
 ---
