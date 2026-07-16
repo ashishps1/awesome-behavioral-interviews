@@ -943,6 +943,7 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 
 ## Other Resources
 - [Amazon Leadership principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles)
+- [ReplacedByAI STAR Story Builder](https://replacedbai.com/star-story-builder) - Free AI tool that turns your work experience into structured STAR-method (Situation, Task, Action, Result) answers for behavioral interviews.
 
 ---
 
