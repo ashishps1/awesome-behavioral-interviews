@@ -943,6 +943,7 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 
 ## Other Resources
 - [Amazon Leadership principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles)
+- [InterviewLegend](https://interviewlegend.com) - company-specific behavioral interview prep with the real questions each company asks
 
 ---
 
