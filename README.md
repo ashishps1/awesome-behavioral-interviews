@@ -949,3 +949,5 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 <p align="center">
   <i>If you find this resource helpful, please give it a star ⭐️ and share it with others!</i>
 </p>
+
+- [OneMira C1](https://onemira.com/products/c1) - Standalone AI voice recorder with Local AI summaries, automatic Speaker ID across 99 languages, Zero Cloud privacy ($0/month subscription), Google Native OKF Markdown Wiki, and native MCP/CLI integration ([GitHub](https://github.com/onemira-space/onemira-mcp)).
